@@ -1,0 +1,14 @@
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojAssemblyReference.cache
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+C:\Users\sakal\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
